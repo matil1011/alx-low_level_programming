@@ -4,9 +4,9 @@
 
 /**
  * main - Entry point that prints a random num behavior.
- * @n: Random number
- * @str: an array of characters
- * @l: a number that holds modul result
+ * n: Random number
+ * str: an array of characters
+ * l: a number that holds modul result
  *
  * Description: random number and their behavior.
  * the program prints the last digit of  a randome number
