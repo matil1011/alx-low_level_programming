@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-* main - Entry point of the program that prints alphabeth
+* main - Entry point of the program that prints alphabeth.
 *
 * Return: Always 0 (success)
 *
